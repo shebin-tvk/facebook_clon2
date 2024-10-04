@@ -1,0 +1,54 @@
+body{
+    margin: 0%;
+    font-family: "Poppins", sans-serif
+}
+.color{
+    color: #fff;
+}
+.nav1{
+    background-color: #385c9a;
+    height: 90px;
+}
+.login_btn{
+    margin-bottom: -5px;
+    background-color: #385c9a;
+    border-color: black;
+    color: #fff;
+    font-weight: bold;
+}
+.email_box{
+    margin-bottom: 20px;
+}
+.main_body{
+    background-color: linear-gradient(#fff, #141418);
+    
+}
+.row{
+    display: flex;
+    justify-content: center;
+    height: 80vh;
+}
+.body_para{
+    margin-left: 130px;
+    margin-top: 50px;
+    font-weight: bold;
+    font-size: 20px;
+}
+.body_img{
+    margin-left: 130px;
+    width: 580px;
+    line-height: 0px;
+}
+.width{
+    width: 398px;
+}
+.dob{
+    float: left;
+}
+.para1{
+    color: #d3d8e8;
+    font-weight: 500;
+}
+.label5{
+    color: #385c9a;
+}
